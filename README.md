@@ -17,7 +17,7 @@ utilz move source.txt destination.txt
 **Delete file:**
 
 ```js
-utilz copy file.txt
+utilz delete file.txt
 ```
 
 ## The Article
