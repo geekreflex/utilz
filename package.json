@@ -1,5 +1,5 @@
 {
-  "name": "command",
+  "name": "utilz",
   "version": "1.0.0",
   "description": "Copy, move, delete and more",
   "main": "index.js",
